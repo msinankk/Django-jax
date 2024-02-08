@@ -1,1 +1,1 @@
-# Django-jax
+# django-jax
